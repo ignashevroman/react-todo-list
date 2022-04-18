@@ -1,0 +1,15 @@
+.todo-list-wrapper {
+    border-radius: 10px;
+    background-color: #fafafa;
+    padding: 30px;
+    box-shadow: 0 10px 10px -8px #e9e9e9;
+}
+
+.todo-list {
+    list-style: none;
+}
+
+.todo-list-error {
+    color: #777;
+    text-align: center;
+}
